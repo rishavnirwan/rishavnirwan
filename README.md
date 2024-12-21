@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavnirwan&label=Profile%20views&color=0e75b6&style=flat" alt="rishavnirwan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@rishav_nirwan" target="blank"><img src="https://img.shields.io/twitter/follow/@rishav_nirwan?logo=twitter&style=for-the-badge" alt="@rishav_nirwan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@rishav_nirwan" target="blank"><img src="https://img.shields.io/twitter/follow/@rishav_nirwan?logo=twitter&style=for-the-badge" alt="rishav_nirwan" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced Power BI**
 
