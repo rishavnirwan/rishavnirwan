@@ -1,4 +1,4 @@
-[![MasterHead](https://www.ratelinx.com/wp-content/uploads/supply_chain_analytics72dpi.jpg
+![logo](https://github.com/rishavnirwan/rishavnirwan/blob/main/supply_chain_analytics72dpi.jpg)
 <h1 align="center">Hi 👋, I'm Rishav Nirwan</h1>
 <h3 align="center">Turning Data Into Insights | Python, Power BI, and Analytics Enthusiast</h3>
 <img align ="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/max/1600/1*Hu4TWEt6o3iAWeqxqklbZg.jpeg">
