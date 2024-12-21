@@ -1,7 +1,7 @@
 [![MasterHead](https://www.ratelinx.com/wp-content/uploads/supply_chain_analytics72dpi.jpg
 <h1 align="center">Hi 👋, I'm Rishav Nirwan</h1>
 <h3 align="center">Turning Data Into Insights | Python, Power BI, and Analytics Enthusiast</h3>
-(img align="right" alt="Coding" width="400" src="https://www.bing.com/images/blob?bcid=S3HpkTeT3-MH5X90A3aNH2y2EI41.....4Y")
+<img align ="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/personalized-desk-setup-with-hobbies-vector-flat-style-illustration_1029473-116132.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavnirwan&label=Profile%20views&color=0e75b6&style=flat" alt="rishavnirwan" /> </p>
 
