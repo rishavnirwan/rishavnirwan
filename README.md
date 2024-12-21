@@ -1,11 +1,11 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=XAm9ihx5&id=61F7853A90B2E82A4A256F71F97D305F6AA87A14&thid=OIP.XAm9ihx5EffYlFV_2SbWVQHaDt&mediaurl=https%3a%2f%2fwww.ratelinx.com%2fwp-content%2fuploads%2fsupply_chain_analytics72dpi.jpg&exph=657&expw=1314&q=banner+image+for+github+profile+for+data+analyst&simid=608048721595285139&FORM=IRPRST&ck=7F911B87920606EBFA32382244E6491D&selectedIndex=80&itb=0)](https://rishavnirwan.io)
+[![MasterHead](https://www.ratelinx.com/wp-content/uploads/supply_chain_analytics72dpi.jpg
 <h1 align="center">Hi 👋, I'm Rishav Nirwan</h1>
 <h3 align="center">Turning Data Into Insights | Python, Power BI, and Analytics Enthusiast</h3>
 (img align="right" alt="Coding" width="400" src="https://www.bing.com/images/blob?bcid=S3HpkTeT3-MH5X90A3aNH2y2EI41.....4Y")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavnirwan&label=Profile%20views&color=0e75b6&style=flat" alt="rishavnirwan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@rishav_nirwan" target="blank"><img src="https://img.shields.io/twitter/follow/@rishav_nirwan?logo=twitter&style=for-the-badge" alt="rishav_nirwan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@rishav_nirwan" target="blank"><img src="https://img.shields.io/twitter/follow/@rishav_nirwan?logo=twitter&style=for-the-badge" alt="@rishav_nirwan" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced Power BI**
 
